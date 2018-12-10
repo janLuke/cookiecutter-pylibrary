@@ -8,7 +8,6 @@
     "package_name": "{{ cookiecutter.project_name|lower|replace(' ','_')|replace('-','_') }}",
     "distribution_name": "{{ cookiecutter.package_name|replace('_','-') }}",
     "project_short_description": "An example package. Generated with cookiecutter-pylibrary.",
-    "release_date": "today",
     "year": [
         "now",
         "2018",

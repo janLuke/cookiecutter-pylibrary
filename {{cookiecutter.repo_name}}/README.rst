@@ -25,7 +25,9 @@ Overview
         {%- endif -%}
 {{ '' }}
     * - package
-      - | |version| |wheel| |supported-versions| |supported-implementations|
+      - | |version| |wheel|
+        | |supported-versions|
+        | |supported-implementations|
         | |commits-since|
 
 {% if cookiecutter.sphinx_docs == "yes" -%}

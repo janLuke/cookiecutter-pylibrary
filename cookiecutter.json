@@ -1,8 +1,8 @@
 {
-    "full_name": "Ionel Cristian Maries",
-    "email": "contact@ionelmc.ro",
-    "website": "https://blog.ionelmc.ro",
-    "github_username": "ionelmc",
+    "full_name": "Gianluca Gippetto",
+    "email": "gianluca.gippetto@gmail.com",
+    "website": "",
+    "github_username": "janLuke",
     "project_name": "Nameless",
     "repo_name": "{{ cookiecutter.project_name|lower|replace(' ','-') }}",
     "package_name": "{{ cookiecutter.project_name|lower|replace(' ','_')|replace('-','_') }}",
